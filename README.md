@@ -1,5 +1,7 @@
 # StarNotary-Dapp
 Truffle v5.1.27 (core: 5.1.27)\
+Node v10.19.0\
+Npm v6.14.5\
 OpenZeppelin version:"2.1.2"\
 ERC-721 Token Name:"Rajendar Star"\
 ERC-721 Token Symbol:"RP"\
